@@ -1,0 +1,6 @@
+Feature Set,ROC-AUC,F1,Delta ROC-AUC
+Demographic + Credit,0.6027,0.3823,
++ Delay Behavior,0.7296,0.4879,0.1269
++ Payment-to-Bill Behavior,0.7409,0.5009,0.0113
++ Billing Behavior,0.7411,0.5012,0.0003
++ Payment Behavior,0.7501,0.5039,0.009

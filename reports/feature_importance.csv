@@ -1,0 +1,11 @@
+feature,importance
+Number of Delayed Months,0.1539
+Bill Amount Volatility,0.1186
+Payment-to-Bill Ratio,0.1169
+Average Payment,0.1153
+Average Bill,0.1131
+Payment Volatility,0.1113
+Credit Limit,0.0961
+Age,0.0949
+Education: 2 (University),0.0123
+Education: 1 (Graduate),0.011
