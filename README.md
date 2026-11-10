@@ -1,6 +1,6 @@
 # Credit Default Prediction and Repayment Behavior Risk Profiling
 
-> **1-minute portfolio view:** a beginner-friendly, end-to-end data science project on a public credit-card dataset. It combines data understanding, exploratory analysis, feature engineering, Logistic Regression, Random Forest, model evaluation beyond accuracy, feature-group contribution, and an interpretable rule-based repayment behavior risk profile.
+> **1-minute portfolio view:** a data science project on a public credit-card dataset. It combines data understanding, exploratory analysis, feature engineering, Logistic Regression, Random Forest, model evaluation beyond accuracy, feature-group contribution, and an interpretable rule-based repayment behavior risk profile.
 
 ## 1. Project Background and Objective
 
